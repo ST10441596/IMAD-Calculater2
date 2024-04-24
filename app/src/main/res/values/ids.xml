@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvDisp" type="id">tvDisp</item>
+    <item name="btnAdd" type="id">btnAdd</item>
+    <item name="btnSub" type="id">btnSub</item>
+    <item name="btnMul" type="id">btnMul</item>
+    <item name="btnDiv" type="id">btnDiv</item>
+    <item name="btnSqr" type="id">btnSqr</item>
+    <item name="btnPow" type="id">btnPow</item>
+    <item name="btnLow" type="id">btnLow</item>
+    <item name="btnAverage" type="id">btnAverage</item>
+    <item name="etNum2" type="id">etNum2</item>
+</resources>
